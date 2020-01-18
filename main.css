@@ -11,6 +11,12 @@ body {
   background-position: top center;
 }
 
+/* @media only screen and (max-width: 320px) {
+  #image { 
+      background-image: url('bg.jpg'); 
+  }
+} */
+
 .app-wrap {
   display: flex;
   flex-direction: column;
